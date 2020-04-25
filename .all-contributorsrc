@@ -1,0 +1,48 @@
+{
+  "projectName": "react-boilerplate-typescript",
+  "projectOwner": "react-boilerplate-typescript",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 80,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "Can-Sahin",
+      "name": "Can Sahin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33245689?v=4",
+      "profile": "https://github.com/Can-Sahin",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "GrayStrider",
+      "name": "Gray Strider",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/43771776?s=460&v=4",
+      "profile": "https://github.com/GrayStrider",
+      "contributions": [
+        "code",
+        "tool",
+        "review"
+      ]
+    },
+    {
+      "login": "rajatkantinandi",
+      "name": "Rajat Kanti Nandi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17743895?v=4",
+      "profile": "https://twitter.com/rajatkantinandi",
+      "contributions": [
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 8,
+  "commitConvention": "none"
+}
